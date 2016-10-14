@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					969091C31DB13F20004F1263 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = GVDGLD972H;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GVDGLD972H;
 				INFOPLIST_FILE = SectionedEmojiTableAdvanced/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = yuryg.SectionedEmojiTableAdvanced;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GVDGLD972H;
 				INFOPLIST_FILE = SectionedEmojiTableAdvanced/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = yuryg.SectionedEmojiTableAdvanced;
